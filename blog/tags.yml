@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+linux:
+  label: linux
+  permalink: /linux
+  description: 有关Linux系统的博客

@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '小高软件',
-  tagline: '分享各种免费好用的软件',
+  title: '小高的博客',
+  tagline: '分享免费软件和有趣项目',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '我的网站',
+        title: '小高的博客',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -95,7 +95,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/AstridGao',
             label: 'GitHub',
             position: 'right',
           },
@@ -131,7 +131,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AstridGao',
               },
             ],
           },
